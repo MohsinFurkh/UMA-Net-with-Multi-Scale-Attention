@@ -7,7 +7,7 @@
 This repository contains the official implementation of the paper:
 
 **Adaptive Ensemble Loss and Multi-Scale Attention in Breast Ultrasound Segmentation with UMA-Net**  
-*Mohsin Farooq Dar, Avatharam Ganivada*  
+*Mohsin Furkh Dar, Avatharam Ganivada*  
 Medical & Biological Engineering & Computing (2025)  
 [DOI: 10.1007/s11517-025-03301-5](https://doi.org/10.1007/s11517-025-03301-5)
 
@@ -137,7 +137,7 @@ If you find this work useful for your research, please cite:
 ```bibtex
 @article{dar2025adaptive,
   title={Adaptive ensemble loss and multi-scale attention in breast ultrasound segmentation with UMA-Net},
-  author={Dar, Mohsin Farooq and Ganivada, Avatharam},
+  author={Dar, Mohsin Furkh and Ganivada, Avatharam},
   journal={Medical \& Biological Engineering \& Computing},
   volume={63},
   number={6},
